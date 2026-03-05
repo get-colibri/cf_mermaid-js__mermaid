@@ -68,14 +68,14 @@ Try Live Editor previews of future releases: <a href="https://develop.git.mermai
 
 Mermaid is a JavaScript-based diagramming and charting tool that uses Markdown-inspired text definitions and a renderer to create and modify complex diagrams. The main purpose of Mermaid is to help documentation catch up with development.
 
-> Doc-Rot is a Catch-22 that Mermaid helps to solve.
+> Doc-Rot  asdf ais a Catch-22 that Mermaid helps to solve.
 
 Diagramming and documentation costs precious developer time and gets outdated quickly.
-But not having diagrams or docs ruins prasfd asdf (and other pieces of code).  
+But not having diagrams or docs ruins prasfd asdf  (and other pieces of code).  
 
 <br>&#8203;
 
-Mermaid allows even non-programmers to easily create detailed diagrams through the [Mermaid Live Editor](https://mermaid.live/).  
+Mermaid allows even non-programmasdf ers to easily create detailed diagrams through the [Mermaid Live Editor](https://mermaid.live/).  
 
 For video tutorials, visit our [Tutorials](https://mermaid.js.org/ecosystem/tutorials.html) page.
 Use Mermaid with your favorite applications, check out the list of [Integrations and Usages of Mermaid](https://mermaid.js.org/ecosystem/integrations-community.html).

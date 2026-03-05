@@ -24,23 +24,23 @@ Generate diagrams from markdown-like text.
 Try Live Editor previews of future releases: <a href="https://develop.git.mermaid.live/" title="Try the mermaid version from the develop branch.">Develop</a> | <a href="https://next.git.mermaid.live/" title="Try the mermaid version from the next branch.">Next</a>
 </p>
 
-<br>
-<br>
+<br>&#8203;
+<br>&#8203;
 
-[![NPM](https://img.shields.io/npm/v/mermaid)](https://www.npmjs.com/package/mermaid)
-[![Build CI Status](https://github.com/mermaid-js/mermaid/actions/workflows/build.yml/badge.svg)](https://github.com/mermaid-js/mermaid/actions/workflows/build.yml)
-[![npm minified gzipped bundle size](https://img.shields.io/bundlephobia/minzip/mermaid)](https://bundlephobia.com/package/mermaid)
-[![Coverage Status](https://codecov.io/github/mermaid-js/mermaid/branch/develop/graph/badge.svg)](https://app.codecov.io/github/mermaid-js/mermaid/tree/develop)
-[![CDN Status](https://img.shields.io/jsdelivr/npm/hm/mermaid)](https://www.jsdelivr.com/package/npm/mermaid)
-[![NPM Downloads](https://img.shields.io/npm/dm/mermaid)](https://www.npmjs.com/package/mermaid)
-[![Join our Discord!](https://img.shields.io/static/v1?message=join%20chat&color=9cf&logo=discord&label=discord)](https://discord.gg/sKeNQX4Wtj)
-[![Twitter Follow](https://img.shields.io/badge/Social-mermaidjs__-blue?style=social&logo=X)](https://twitter.com/mermaidjs_)
-[![Covered by Argos Visual Testing](https://argos-ci.com/badge.svg)](https://argos-ci.com?utm_source=mermaid&utm_campaign=oss)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/mermaid-js/mermaid/badge)](https://securityscorecards.dev/viewer/?uri=github.com/mermaid-js/mermaid)
+![](https://img.shields.io/npm/v/mermaid)
+![](https://github.com/mermaid-js/mermaid/actions/workflows/build.yml/badge.svg)
+![](https://img.shields.io/bundlephobia/minzip/mermaid)
+![](https://codecov.io/github/mermaid-js/mermaid/branch/develop/graph/badge.svg)
+![](https://img.shields.io/jsdelivr/npm/hm/mermaid)
+![](https://img.shields.io/npm/dm/mermaid)
+![](https://img.shields.io/static/v1?message=join%20chat&color=9cf&logo=discord&label=discord)
+![](https://img.shields.io/badge/Social-mermaidjs__-blue?style=social&logo=X)
+![](https://argos-ci.com/badge.svg)
+![](https://api.securityscorecards.dev/projects/github.com/mermaid-js/mermaid/badge)
 
 <img src="./img/header.png" alt="" />
 
-:trophy: **Mermaid was nominated and won the [JS Open Source Awards (2019)](https://osawards.com/javascript/2019) in the category "The most exciting use of technology"!!!**
+:trophy: **Mermaid was nominated and won the ****[JS Open Source Awards (2019)](https://osawards.com/javascript/2019)**** in the category "The most exciting use of technology"!!!**
 
 **Thanks to all involved, people committing pull requests, people answering questions! 🙏**
 
@@ -71,11 +71,12 @@ Mermaid is a JavaScript-based diagramming and charting tool that uses Markdown-i
 > Doc-Rot is a Catch-22 that Mermaid helps to solve.
 
 Diagramming and documentation costs precious developer time and gets outdated quickly.
-But not having diagrams or docs ruins productivity and hurts organizational learning.<br/>
-Mermaid addresses this problem by enabling users to create easily modifiable diagrams. It can also be made part of production scripts (and other pieces of code).<br/>
-<br/>
+But not having diagrams or docs ruins prasfd asdf (and other pieces of code).  
 
-Mermaid allows even non-programmers to easily create detailed diagrams through the [Mermaid Live Editor](https://mermaid.live/).<br/>
+<br>&#8203;
+
+Mermaid allows even non-programmers to easily create detailed diagrams through the [Mermaid Live Editor](https://mermaid.live/).  
+
 For video tutorials, visit our [Tutorials](https://mermaid.js.org/ecosystem/tutorials.html) page.
 Use Mermaid with your favorite applications, check out the list of [Integrations and Usages of Mermaid](https://mermaid.js.org/ecosystem/integrations-community.html).
 
@@ -85,7 +86,7 @@ For a more detailed introduction to Mermaid and some of its more basic uses, loo
 
 Our PR Visual Regression Testing is powered by [Argos](https://argos-ci.com/?utm_source=mermaid&utm_campaign=oss) with their generous Open Source plan. It makes the process of reviewing PRs with visual changes a breeze.
 
-[![Covered by Argos Visual Testing](https://argos-ci.com/badge-large.svg)](https://argos-ci.com?utm_source=mermaid&utm_campaign=oss)
+![](https://argos-ci.com/badge-large.svg)
 
 In our release process we rely heavily on visual regression tests using [applitools](https://applitools.com/). Applitools is a great service which has been easy to use and integrate with our tests.
 
@@ -97,11 +98,12 @@ In our release process we rely heavily on visual regression tests using [applito
 
 ## Examples
 
-**The following are some examples of the diagrams, charts and graphs that can be made using Mermaid. Click here to jump into the [text syntax](https://mermaid.js.org/intro/syntax-reference.html).**
+**The following are some examples of the diagrams, charts and graphs that can be made using Mermaid. Click here to jump into the ****[text syntax](https://mermaid.js.org/intro/syntax-reference.html)****.**
 
 <!-- <Flowchart> -->
 
 ### Flowchart [<a href="https://mermaid.js.org/syntax/flowchart.html">docs</a> - <a href="https://mermaid.live/edit#pako:eNpNkMtqwzAQRX9FzKqFJK7t1km8KDQP6KJQSLOLvZhIY1tgS0GWmgbb_165IaFaiXvOFTPqgGtBkEJR6zOv0Fj2scsU8-ft8I5G5Gw6fe339GN7tnrYaafE45WvRsLW3Ya4bKVWwzVe_xU-FfVsc9hR62rLwvw_2591z7Y3FuUwgYZMg1L4ObrRzMBW1FAGqb8KKtCLGWRq8Ko7CbS0FdJqA2mBdUsTQGf110VxSK1xdJM2EkuDzd2qNQrypQ7s5TQuXcrW-ie5VoUsx9yZ2seVtac2DYIRz0ppK3eccd0ErRTjD1XfyyRIomSBUUzJPMaXOBb8GC4XRfQcFmL-FEYIwzD8AggvcHE">live editor</a>]
+
 
 ```
 flowchart LR
@@ -110,9 +112,6 @@ A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
-```
-
-```mermaid
 flowchart LR
 
 A[Hard] -->|Text| B(Round)
@@ -122,6 +121,7 @@ C -->|Two| E[Result 2]
 ```
 
 ### Sequence diagram [<a href="https://mermaid.js.org/syntax/sequenceDiagram.html">docs</a> - <a href="https://mermaid.live/edit#pako:eNo9kMluwjAQhl_F-AykQMuSA1WrbuLQQ3v1ZbAnsVXHkzrjVhHi3etQwKfRv4w-z0FqMihL2eF3wqDxyUEdoVHhwTuNk-12RzaU4g29JzHMY2HpV0BE0VO6V8ETtdkGz1Zb1F8qiPyG5LX84mrLAmpwoWNh-5a0pWCiAxUwGBXeiVHEU4oq8V_6AHYUwAu2lLLTjVQ4bc1rT2yleI0IfJG320faZ9ABbk-Jz3hZnFxBduR9L2oiM5Jj2WBswJn8-cMArSRbbFDJMo8GK0ielVThmKOpNcD4bBxTlGUFvsOxhMT02QctS44JL6HzAS-iJzCYOwfJfTscunYd542aQuXqQU_RZ9kyt11ZFIM9rR3btJ9qaorOGQuR7c9mWSznyzXMF7hcLeBusTB6P9usq_ntrDKrm9kc5PF4_AMJE56Z">live editor</a>]
+
 
 ```
 sequenceDiagram
@@ -133,9 +133,6 @@ Note right of John: Rational thoughts!
 John-->>Alice: Great!
 John->>Bob: How about you?
 Bob-->>John: Jolly good!
-```
-
-```mermaid
 sequenceDiagram
 Alice->>John: Hello John, how are you?
 loop HealthCheck
@@ -149,6 +146,7 @@ Bob-->>John: Jolly good!
 
 ### Gantt chart [<a href="https://mermaid.js.org/syntax/gantt.html">docs</a> - <a href="https://mermaid.live/edit#pako:eNp90cGOgyAQBuBXIZxtFbG29bbZ3fsmvXKZylhJEAyOTZrGd1_sto3xsHMBhu-HBO689hp5xS_giJQbsCbjHTv9jcp9-q63SKhZpb3DhMXSOIiE5ZkoNpnYZGXynh6U-4jBK7JnVfBYJo9QvgjtEya1cj8QwFq0TMz4lZqxTBg0hOF5m1jifI2Lf7Bc490CyxUu1rhc4GLGPOEdhg6Mjq92V44xxanFDhWv4lRjA6MlxZWbIh17DYTf2pAPvGrADphwGMmfbq7mFYURX-jLwCVA91bWg8YYunO69Y8vMgPFI2vvGnOZ-2Owsd0S9UOVpvP29mKoHc_b2nfpYHQLgdrrsUzLvDxALrHcS9hJqeuzOB6avBCN3mciBz5N0y_wxZ0J">live editor</a>]
 
+
 ```
 gantt
     section Section
@@ -158,9 +156,6 @@ gantt
     Parallel 2   :         des4, after des1, 1d
     Parallel 3   :         des5, after des3, 1d
     Parallel 4   :         des6, after des4, 1d
-```
-
-```mermaid
 gantt
     section Section
     Completed :done,    des1, 2014-01-06,2014-01-08
@@ -173,6 +168,7 @@ gantt
 
 ### Class diagram [<a href="https://mermaid.js.org/syntax/classDiagram.html">docs</a> - <a href="https://mermaid.live/edit#pako:eNpdkTFPwzAQhf-K5QlQ2zQJJG1UBaGWDYmBgYEwXO1LYuTEwXYqlZL_jt02asXm--690zvfgTLFkWaUSTBmI6DS0BTt2lfzkKx-p1PytEO9f1FtdaQkI2ulZNGuVqK1qEtgmOfk7BitSzKdOhg59XuNGgk0RDxed-_IOr6uf8cZ6UhTZ8bvHqS5ub1mr9svZPbjk6DEBlu7AQuXyBkx4gcvDk9cUMJq0XT_YaW0kNK5j-ufAoRzcihaQvLcoN4Jv50vvVxw_xrnD3RCG9QNCO4-8OgpqK1dpoJm7smxhF7agp6kfcfB4jMXVmmalW4tnFDorXrbt4xmVvc4is53GKFUwNF5DtTuO3-sShjrJjLVlqLyvNfS4drazmRB4NuzSti6386YagIjeA3a1rtlEiRRsoAoxiSN4SGOOduGy0UZ3YclT-dhBHQYhj8dc6_I">live editor</a>]
 
+
 ```
 classDiagram
 Class01 <|-- AveryLongClass : Cool
@@ -190,10 +186,6 @@ class Class10 {
   int id
   size()
 }
-
-```
-
-```mermaid
 classDiagram
 Class01 <|-- AveryLongClass : Cool
 <<Interface>> Class01
@@ -210,10 +202,10 @@ class Class10 {
   int id
   size()
 }
-
 ```
 
 ### State diagram [<a href="https://mermaid.js.org/syntax/stateDiagram.html">docs</a> - <a href="https://mermaid.live/edit#pako:eNpdkEFvgzAMhf8K8nEqpYSNthx22Xbcqcexg0sCiZQQlDhIFeK_L8A6TfXp6fOz9ewJGssFVOAJSbwr7ByadGR1n8T6evpO0vQ1uZDSekOrXGFsPqJPO6q-2-imH8f_0TeHXm50lfelsAMjnEHFY6xpMdRAUhhRQxUlFy0GTTXU_RytYeAx-AdXZB1ULWovdoCB7OXWN1CRC-Ju-r3uz6UtchGHJqDbsPygU57iysb2reoWHpyOWBINvsqypb3vFMlw3TfWZF5xiY7keC6zkpUnZIUojwW-FAVvrvn51LLnvOXHQ84Q5nn-AVtLcwk">live editor</a>]
+
 
 ```
 stateDiagram-v2
@@ -223,9 +215,6 @@ Still --> Moving
 Moving --> Still
 Moving --> Crash
 Crash --> [*]
-```
-
-```mermaid
 stateDiagram-v2
 [*] --> Still
 Still --> [*]
@@ -237,14 +226,12 @@ Crash --> [*]
 
 ### Pie chart [<a href="https://mermaid.js.org/syntax/pie.html">docs</a> - <a href="https://mermaid.live/edit#pako:eNo9jsFugzAMhl8F-VzBgEEh13Uv0F1zcYkTIpEEBadShXj3BU3dzf_n77e8wxQUgYDVkvQSbsFsEgpRtEN_5i_kvzx05XiC-xvUHVzAUXRoVe7v0heFBJ7JkQSRR0Ua08ISpD-ymlaFTN_KcoggNC4bXQATh5-Xn0BwTPSWbhZNRPdvLQEV5dIO_FrPZ43dOJ-cgtfWnDzFJeOZed1EVZ3r0lie06Ocgqs2q2aMPD_HvuqbfsCmpf7aYte2anrU46Cbz1qr60fdIBzH8QvW9lkl">live editor</a>]
 
+
 ```
 pie
 "Dogs" : 386
 "Cats" : 85.9
 "Rats" : 15
-```
-
-```mermaid
 pie
 "Dogs" : 386
 "Cats" : 85.9
@@ -252,6 +239,7 @@ pie
 ```
 
 ### Git graph [experimental - <a href="https://mermaid.live/edit#pako:eNqNkMFugzAMhl8F-VyVAR1tOW_aA-zKxSSGRCMJCk6lCvHuNZPKZdM0n-zf3_8r8QIqaIIGMqnB8kfEybQ--y4VnLP8-9RF9Mpkmm40hmlnDKmvkPiH_kfS7nFo_VN0FAf6XwocQGgxa_nGsm1bYEOOWmik1dRjGrmF1q-Cpkkj07u2HCI0PY4zHQATh8-7V9BwTPSE3iwOEd1OjQE1iWkBvk_bzQY7s0Sq4Hs7bHqKo8iGeZqbPN_WR7mpSd1RHpvPVhuMbG7XOq_L-oJlRfW5wteq0qorrpe-PBW9Pr8UJcK6rg-BLYPQ">live editor</a>]
+
 
 ```
 gitGraph
@@ -265,9 +253,6 @@ gitGraph
   merge develop
   commit
   commit
-```
-
-```mermaid
 gitGraph
   commit
   commit
@@ -282,6 +267,7 @@ gitGraph
 ```
 
 ### Bar chart (using gantt chart) [<a href="https://mermaid.js.org/syntax/gantt.html">docs</a> - <a href="https://mermaid.live/edit#pako:eNptkU1vhCAQhv8KIenNugiI4rkf6bmXpvEyFVxJFDYyNt1u9r8X63Z7WQ9m5pknLzieaBeMpQ3dg0dsPUkPOhwteXZIXmJcbCT3xMAxkuh8Z8kIEclyMIB209fqKcwTICFvG4IvFy_oLrZ-g9F26ILfQgvNFN94VaRXQ1iWqpumZBcu1J8p1E1TXDx59eQNr5LyEqjJn6hv5QnGNlxevZJmdLLpy5xJSzut45biYCfb0iaVxvawjNjS1p-TCguG16PvaIPzYjO67e3BwX6GiTY9jPFKH43DMF_hGMDY1J4oHg-_f8hFTJFd8L3br3yZx4QHxENsdrt1nO8dDstH3oVpF50ZYMbhU6ud4qoGLqyqBJRCmO6j0HXPZdGbihUc6Pmc0QP49xD-b5X69ZQv2gjO81IwzWqhC1lKrjJ6pA3nVS7SMiVjrKirWlYp5fs3osgrWeo00lorLWvOzz8JVbXm">live editor</a>]
+
 
 ```
 gantt
@@ -299,9 +285,6 @@ gantt
     9    : 0, 9
     section Issue1300
     5    : 0, 5
-```
-
-```mermaid
 gantt
     title Git Issues - days since last update
     dateFormat  X
@@ -321,6 +304,7 @@ gantt
 
 ### User Journey diagram [<a href="https://mermaid.js.org/syntax/userJourney.html">docs</a> - <a href="https://mermaid.live/edit#pako:eNplkMFuwjAQRH9l5TMiTVIC-FqqnjhxzWWJN4khsSN7XRSh_HsdKBVt97R6Mzsj-yoqq0hIAXCywRkaSwNxWHNHsB_hYt1ZmwYUfiueKtbWwIcFtjf5zgH2eCZgQgkrCXt64GgMg2fUzkvIn5Xd_V5COtMFvCH_62ht_5yk7MU8sn61HDTfxD8VYiF6cj1qFd94nWkpuKWYKWRcFdUYOi5FaaZoDYNCpnel2Toha-w8LQQGtofRVEKyC_Qw7TQ2DvsfV2dRUTy6Ch6H-UMb7TlGVtbUupl5cF3ELfPgZZLM8rLR3IbjsrJ94rVq0XH7uS2SIis2mOVUrHNc5bmqjul2U2evaa3WL2mGYpqmL2BGiho">live editor</a>]
 
+
 ```
   journey
     title My working day
@@ -331,9 +315,6 @@ gantt
     section Go home
       Go downstairs: 5: Me
       Sit down: 3: Me
-```
-
-```mermaid
   journey
     title My working day
     section Go to work
@@ -346,6 +327,7 @@ gantt
 ```
 
 ### C4 diagram [<a href="https://mermaid.js.org/syntax/c4.html">docs</a>]
+
 
 ```
 C4Context
@@ -380,9 +362,6 @@ BiRel(customerA, SystemAA, "Uses")
 BiRel(SystemAA, SystemE, "Uses")
 Rel(SystemAA, SystemC, "Sends e-mails", "SMTP")
 Rel(SystemC, customerA, "Sends e-mails to")
-```
-
-```mermaid
 C4Context
 title System Context diagram for Internet Banking System
 
@@ -423,19 +402,19 @@ For those who have the permission to do so:
 
 Update version number in `package.json`.
 
+
 ```sh
 npm publish
 ```
 
-The above command generates files into the `dist` folder and publishes them to <https://www.npmjs.com>.
+The above command generates files into the `dist` folder and publishes them to [https://www.npmjs.com](https://www.npmjs.com).
 
 ## Related projects
 
 - [Command Line Interface](https://github.com/mermaid-js/mermaid-cli)
 - [Live Editor](https://github.com/mermaid-js/mermaid-live-editor)
 - [HTTP Server](https://github.com/TomWright/mermaid-server)
-
-## Contributors [![Good first issue](https://img.shields.io/github/labels/mermaid-js/mermaid/Good%20first%20issue%21)](https://github.com/mermaid-js/mermaid/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue%21%22) [![Contributors](https://img.shields.io/github/contributors/mermaid-js/mermaid)](https://github.com/mermaid-js/mermaid/graphs/contributors) [![Commits](https://img.shields.io/github/commit-activity/m/mermaid-js/mermaid)](https://github.com/mermaid-js/mermaid/graphs/contributors)
+## Contributors ![](https://img.shields.io/github/labels/mermaid-js/mermaid/Good%20first%20issue%21) ![](https://img.shields.io/github/contributors/mermaid-js/mermaid) ![](https://img.shields.io/github/commit-activity/m/mermaid-js/mermaid)
 
 Mermaid is a growing community and is always accepting new contributors. There's a lot of different ways to help out and we're always looking for extra hands! Look at [this issue](https://github.com/mermaid-js/mermaid/issues/866) if you want to know where to start helping out.
 
@@ -447,24 +426,17 @@ For public sites, it can be precarious to retrieve text from users on the intern
 
 As an extra level of security for sites with external users we are happy to introduce a new security level in which the diagram is rendered in a sandboxed iframe preventing javascript in the code from being executed. This is a great step forward for better security.
 
-_Unfortunately you cannot have a cake and eat it at the same time which in this case means that some of the interactive functionality gets blocked along with the possible malicious code._
+*Unfortunately you cannot have a cake and eat it at the same time which in this case means that some of the interactive functionality gets blocked along with the possible malicious code.*
 
 ## Reporting vulnerabilities
 
-To report a vulnerability, please e-mail <security@mermaid.live> with a description of the issue, the steps you took to create the issue, affected versions, and if known, mitigations for the issue.
+To report a vulnerability, please e-mail [security@mermaid.live](mailto:security@mermaid.live) with a description of the issue, the steps you took to create the issue, affected versions, and if known, mitigations for the issue.
 
 ## Appreciation
 
 A quick note from Knut Sveidqvist:
 
-> _Many thanks to the [d3](https://d3js.org/) and [dagre-d3](https://github.com/cpettitt/dagre-d3) projects for providing the graphical layout and drawing libraries!_
->
-> _Thanks also to the [js-sequence-diagram](https://bramp.github.io/js-sequence-diagrams) project for usage of the grammar for the sequence diagrams. Thanks to Jessica Peter for inspiration and starting point for gantt rendering._
->
-> _Thank you to [Tyler Long](https://github.com/tylerlong) who has been a collaborator since April 2017._
->
-> _Thank you to the ever-growing list of [contributors](https://github.com/mermaid-js/mermaid/graphs/contributors) that brought the project this far!_
-
+> *Many thanks to the **[d3](https://d3js.org/)** and **[dagre-d3](https://github.com/cpettitt/dagre-d3)** projects for providing the graphical layout and drawing libraries!Thanks also to the **[js-sequence-diagram](https://bramp.github.io/js-sequence-diagrams)** project for usage of the grammar for the sequence diagrams. Thanks to Jessica Peter for inspiration and starting point for gantt rendering.Thank you to **[Tyler Long](https://github.com/tylerlong)** who has been a collaborator since April 2017.Thank you to the ever-growing list of **[contributors](https://github.com/mermaid-js/mermaid/graphs/contributors)** that brought the project this far!*
 ---
 
-_Mermaid was created by Knut Sveidqvist for easier documentation._
+*Mermaid was created by Knut Sveidqvist for easier documentation.*
